@@ -84,6 +84,4 @@ Retrieves statistics for the application. Requires authentication and admin auth
 
 If you find any issues or would like to contribute, feel free to submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
