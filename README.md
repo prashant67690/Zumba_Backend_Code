@@ -1,5 +1,5 @@
 # Zumba_Backend_Code 
-[Running Server Link](https://zumba.onrender.com/api/v1/)
+[Running Server Link](https://zumba.onrender.com/)
 
 # Backend API Documentation
 
