@@ -20,7 +20,6 @@ const schema = new mongoose.Schema({
     },
     pincode: {
       type: Number,
-      required: true,
     },
     phoneNo: {
       type: Number,
